@@ -1,7 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=chunshand&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-
-
-
-
-
+<p align="center">
+  <samp>
+    <a href="/">me</a> .
+    <a href="https://chunshand.github.io">web</a> .
+    <a href="https://juejin.cn/user/114004937933352">juejin</a> 
+  </samp>
+</p>
