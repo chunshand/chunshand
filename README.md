@@ -6,3 +6,8 @@
   </samp>
 </p>
 <img src="http://juejin-card.vercel.app/api?uid=114004937933352"/>
+
+
+```html
+  <img src="http://juejin-card.vercel.app/api?uid=[you jujin uid]"/>
+```
